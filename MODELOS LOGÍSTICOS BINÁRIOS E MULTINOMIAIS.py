@@ -1,11 +1,3 @@
-# MBA DATA SCIENCE & ANALYTICS USP/Esalq
-# SUPERVISED MACHINE LEARNING: MODELOS LOGÍSTICOS BINÁRIOS E MULTINOMIAIS
-# Prof. Dr. Luiz Paulo Fávero
-
-#!/usr/bin/env python
-# coding: utf-8
-
-
 # In[ ]: Importação dos pacotes necessários
 
 import pandas as pd # manipulação de dado em formato de dataframe
